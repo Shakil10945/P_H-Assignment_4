@@ -6,7 +6,6 @@ function calculateMoney(ticketSale) {
     else{
         return 'Invalid Number';
     }
-    
 }
 
-console.log(calculateMoney(0));
+console.log(calculateMoney(93));
